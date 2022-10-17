@@ -21,7 +21,7 @@ global.APIKeys = { // APIKey Here
   'https://api.zeks.xyz': 'apivinz',
   'https://pencarikode.xyz': 'pais',
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
-  'https://api.zeeoneofc.xyz': 'LPGJZruR
+  'https://api.zeeoneofc.xyz': 'LPGJZruR'
 }
 
 // Sticker WM
