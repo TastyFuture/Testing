@@ -68,7 +68,7 @@ global.myytv = 'https://instagram.com/tasty_futuree'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
 global.botname = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'
 global.akulaku = 'Bot By Syakata'
-global.ytname = '© STARS.Yugo~'
+global.ytname = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'
 
 
 let file = require.resolve(__filename)
