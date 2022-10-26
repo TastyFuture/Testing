@@ -34,8 +34,8 @@ global.APIKeys = {
 global.owner = ['6288293742724']
 global.ownernomer = "6288293742724"
 global.premium = ['6288293742724']
-global.packname = 'Sticker By'
-global.author = 'Syakata'
+global.packname = '2022'
+global.author = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
@@ -63,12 +63,12 @@ global.limitawal = {
 global.thumb = fs.readFileSync('./media/image/naze.jpg')
 global.faall = fs.readFileSync('./media/image/fake.jpg')
 global.mygit = 'https://github.com/TastyFuture'
-global.myyt = 'https://youtube.com/c/Nazedev'
-global.myytv = 'https://youtu.be/ey7qLuRBm5Y'
+global.myyt = 'hhttps://instagram.com/tasty_futuree'
+global.myytv = 'https://instagram.com/tasty_futuree'
 global.mygc = "https://chat.whatsapp.com/Khpnk6svwIhCIvx91Xi0Vf"
 global.botname = '꯱ׁׅ֒ᨰׁׅɑׁׅ֮ժׁׅ݊꯱ׁׅ֒ - ϐׁׅ֒ᨵׁׅtׁׅ'
 global.akulaku = 'Bot By Syakata'
-global.ytname = 'YT NAZE'
+global.ytname = '© STARS.Yugo~'
 
 
 let file = require.resolve(__filename)
